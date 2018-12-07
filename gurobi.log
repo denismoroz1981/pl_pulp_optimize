@@ -1,0 +1,9 @@
+
+Gurobi 8.1.0 (linux64, Python) logging started Fri Dec  7 21:05:27 2018
+
+
+Gurobi 8.1.0 (linux64) logging started Fri Dec  7 21:05:27 2018
+
+
+ERROR 10009: No Gurobi license found (user denismoroz, host denis-VPCEL2S1R, hostid 3ca577cd, cores 2)
+
